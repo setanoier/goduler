@@ -1,1 +1,1 @@
-# Ogodot - CLI To Do Application
+# Goduler - CLI To Do Application
